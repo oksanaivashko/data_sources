@@ -14,4 +14,9 @@ For example;
 
 Every data source in Terraform is mapped to a provider based on longest-prefix matching. For example the "aws_ami" data source would map to the aws provider (if that exists).
 
+<<<<<<< HEAD
 # Data Source Block
+=======
+# Data Source Block
+![VPC](https://user-images.githubusercontent.com/108756145/222932527-12e3e478-469c-410f-9a4e-e56199b011cc.jpg)
+>>>>>>> cb951a1f9971d28fb4ede9a2bf2ac4b7eba252df
